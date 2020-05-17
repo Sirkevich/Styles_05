@@ -1,0 +1,57 @@
+* {
+    font-family: 'Arimo', sans-serif;
+    color: #ccc;
+    font-size: 18px;
+    background-color: grey;
+}
+
+.title {
+    font-family: 'Coda Caption', sans-serif;
+    text-transform: uppercase;
+}
+
+header {
+    border: 2px solid red;
+}
+
+.nav > a {
+    text-decoration: none;
+    color: green;
+}
+
+.link_uppercase {
+    text-decoration:none;
+    border-bottom:2px solid red;
+}
+
+.border_pink {
+    border: 2px dashed pink;
+    margin-top: 10px;
+}
+
+.border_green {
+    border: 2px solid green;
+    margin-top: 10px;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.total_rating {
+    color: yellow;
+}
+
+.max_rating {
+    color: green;
+}
+
+.desc {
+    font-weight: bold;
+}
+
+.hashtag > a {
+    color: black;
+    text-decoration: none;
+}
+
